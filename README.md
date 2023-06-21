@@ -1,3 +1,6 @@
 # Virtual-Assistant-Using-Python
-This code contain the code of virtual assistan name veer the code is Supported by Open AI API . 
-please use your own Open AI API key in config file and Install all module in your Device .
+In this code i am using a Open Ai API for data and multiple python module .
+"Please use your own OpenAI API key in config file and install all important module"
+**** This code created for study purpose ****
+For mac user change the Win32 module you can use os.System module for audio.
+for window user it work proper.
